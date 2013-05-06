@@ -67,6 +67,8 @@ public function widget($args, $par) {
 		'post_type' => 'post',
 		'post_status' => $post_staus,
 		'posts_per_page' => $count,
+		'orderby' => 'date',
+		'order' => 'ASC'
 	);
 	$my_query = new WP_Query( $args2 );
 	
