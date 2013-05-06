@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Widget of the Future
+Plugin Name: Future Widget
 Plugin URI: 
 Description: This plugin adds a widget to list future posts in your sidebar. You can choose how many posts to display.
 Author: Shinichi Nishikawa
